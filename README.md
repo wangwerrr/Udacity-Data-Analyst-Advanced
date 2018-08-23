@@ -1,3 +1,3 @@
 # Udacity-Data-Analyst-Advanced
 
-Notes
+Notes and Assignments
